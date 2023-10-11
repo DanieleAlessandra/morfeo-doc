@@ -1,0 +1,10 @@
+{
+  "generic": {
+    "buttons": {
+      "confirm": "Conferma"
+    },
+    "labels": {
+      "upload_file": "Carica file"
+    }
+  }
+}

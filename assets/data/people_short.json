@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "first_name": "Humbert",
+    "last_name": "Camin",
+    "email": "hcamin0@smugmug.com",
+    "gender": "Male",
+    "ip_address": "60.97.232.240"
+  },
+  {
+    "id": 2,
+    "first_name": "Daren",
+    "last_name": "Waud",
+    "email": "dwaud1@kickstarter.com",
+    "gender": "Male",
+    "ip_address": "146.104.107.212"
+  },
+  {
+    "id": 3,
+    "first_name": "Rosalia",
+    "last_name": "Van Vuuren",
+    "email": "rvanvuuren2@indiatimes.com",
+    "gender": "Female",
+    "ip_address": "92.112.115.86"
+  },
+  {
+    "id": 4,
+    "first_name": "Fey",
+    "last_name": "Sansam",
+    "email": "fsansam3@soundcloud.com",
+    "gender": "Female",
+    "ip_address": "139.2.38.172"
+  },
+  {
+    "id": 5,
+    "first_name": "Emmalynn",
+    "last_name": "Tenney",
+    "email": "etenney4@blinklist.com",
+    "gender": "Female",
+    "ip_address": "155.233.112.76"
+  },
+  {
+    "id": 6,
+    "first_name": "Shaun",
+    "last_name": "Ordidge",
+    "email": "sordidge5@ning.com",
+    "gender": "Female",
+    "ip_address": "143.253.42.14"
+  },
+  {
+    "id": 7,
+    "first_name": "Nils",
+    "last_name": "Potier",
+    "email": "npotier6@topsy.com",
+    "gender": "Male",
+    "ip_address": "23.188.216.14"
+  }
+]

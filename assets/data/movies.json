@@ -1,0 +1,37 @@
+{
+  "elements": [
+    {
+      "id": 111161,
+      "title": "The Shawshank Redemption",
+      "genres": ["drama"],
+      "year": "1994"
+    },
+    {
+      "id": 68646,
+      "title": "The Godfather",
+      "genre": ["crime","drama"],
+      "year": "1972"
+    },
+    {
+      "id": 468569,
+      "title": "The Dark Knight",
+      "genre": ["action","crime","drama"],
+      "year": "2008"
+    },
+    {
+      "id": 1375666,
+      "title": "Inception",
+      "genre": ["action","adventure","sci-fi"],
+      "year": "2010"
+    },
+    {
+      "id": 816692,
+      "title": "Interstellar",
+      "genre": ["adventure","drama","sci-fi"],
+      "year": "2014"
+    }
+  ],
+  "currentPage": 1,
+  "totalElements": 5,
+  "currentSize": 5
+}
